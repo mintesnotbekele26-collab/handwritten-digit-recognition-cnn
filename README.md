@@ -7,6 +7,7 @@ This project uses a **Convolutional Neural Network (CNN)** to recognize handwrit
 The images were collected for digits **0–9** and processed before training the CNN model.
 
 ## Dataset
+## Real-world dataset: Handwritten digit images were personally collected and organized into digit classes (0–9).
 
 The dataset contains handwritten digit images organized into folders from `0` to `9`.
 
